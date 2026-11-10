@@ -1,0 +1,6 @@
+{
+  "firestore": {
+    "database": "ai-studio-fleetflow-d05cc4cc-ab71-46f2-9a22-2419c0f125f8",
+    "rules": "firestore.rules"
+  }
+}
